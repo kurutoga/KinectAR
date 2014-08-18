@@ -1,0 +1,9 @@
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\bin\Debug\CASAS_Kinect.exe.manifest
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\bin\Debug\CASAS_Kinect.application
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\bin\Debug\CASAS_Kinect.exe
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\bin\Debug\CASAS_Kinect.pdb
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\obj\Debug\CASAS_Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\obj\Debug\CASAS_Kinect.exe.manifest
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\obj\Debug\CASAS_Kinect.application
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\obj\Debug\CASAS_Kinect.exe
+C:\Users\Biswaranjan\documents\visual studio 2013\Projects\CASAS_Kinect\CASAS_Kinect\obj\Debug\CASAS_Kinect.pdb
