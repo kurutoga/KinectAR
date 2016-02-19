@@ -3,6 +3,11 @@
 Kinect Activity Recognition Alpha.
 -----------------------------------
 
+Upto 3 Kinects are connected a single machine.
+
+We use Kinect v1 SDK and serialize the data.
+
+This data is sent to our middleware using RabbitMQ (AMQP). Before sending the data, we compress it using LZ4.
 
 
 
