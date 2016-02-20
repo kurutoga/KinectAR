@@ -3,9 +3,10 @@
 Kinect Activity Recognition Alpha.
 -----------------------------------
 
-Upto 3 Kinects are connected a single machine.
+Upto 3 Kinects are interfaced by this program on a single machine.
 
-We use Kinect v1 SDK and serialize the data.
+We use Kinect v1 SDK to gather the skeletal data.
+This skeletal data is then serialized and converted to a byte stream.
 
 This data is sent to our middleware using RabbitMQ (AMQP). Before sending the data, we compress it using LZ4.
 
